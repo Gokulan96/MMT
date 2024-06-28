@@ -1,0 +1,3 @@
+Scenario 1: Book the Train From Chennai to Thanjavur
+
+Scenario 2: Return Book Train from Thanjavur to Chennai
